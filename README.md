@@ -1,24 +1,19 @@
 # nodewithvue2
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Notice
 
-### Lints and fixes files
-```
-npm run lint
-```
+vue2 及全家桶相关内容
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+配合https://github.com/sparrowzhang28/nodejs-express 使用,完成前端-后端的数据请求及开发全流程
